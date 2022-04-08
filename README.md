@@ -1,5 +1,7 @@
 # Hola a todos Explorers y Mission Comanders
 
+<a href="./dist/index.html">pagina desplegada<a>
+
 # vuex-launchx
 
 ## Project setup
