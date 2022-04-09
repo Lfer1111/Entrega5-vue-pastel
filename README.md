@@ -1,6 +1,6 @@
 # Hola a todos Explorers y Mission Comanders
 
-<a href="https://lfer1111.github.io/Entrega5-vue-pastel/">PAGINA DESPLEGABLE<a>
+<a href="index.html">PAGINA DESPLEGABLE<a>
 
 # vuex-launchx
 
